@@ -1,0 +1,8 @@
+matplotlib==3.4.3
+gensim==3.8.0
+pandas==1.3.4
+torch==1.10.0
+mol2vec==0.1
+numpy==1.21.3
+rdkit==2009.Q1-1
+scikit_learn==1.0.1
